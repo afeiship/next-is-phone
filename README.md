@@ -15,7 +15,8 @@ npm install -S @feizheng/next-is-phone
 ```js
 import '@feizheng/next-is-phone';
 
-//DOCS here!
+nx.isPhone('13200000000'); // true
+nx.isPhone('4008008080');  // false
 ```
 
 ## license
