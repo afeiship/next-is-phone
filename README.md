@@ -3,30 +3,32 @@
 
 [![version][version-image]][version-url]
 [![license][license-image]][license-url]
-![size][size-image]
-![download][download-image]
+[![size][size-image]][size-url]
+[![download][download-image]][download-url]
 
 ## installation
 ```bash
-npm install -S @feizheng/next-is-phone
+npm install -S @jswork/next-is-phone
 ```
 
 ## usage
 ```js
-import '@feizheng/next-is-phone';
+import '@jswork/next-is-phone';
 
-nx.isPhone('13200000000'); // true
-nx.isPhone('4008008080');  // false
+//DOCS here!
 ```
 
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-is-phone/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-is-phone
-[version-url]: https://npmjs.org/package/@feizheng/next-is-phone
+[version-image]: https://img.shields.io/npm/v/@jswork/next-is-phone
+[version-url]: https://npmjs.org/package/@jswork/next-is-phone
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-is-phone
+[license-image]: https://img.shields.io/npm/l/@jswork/next-is-phone
 [license-url]: https://github.com/afeiship/next-is-phone/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-is-phone
-[download-image]: https://img.shields.io/npm/dw/@feizheng/next-is-phone
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-is-phone
+[size-url]: https://github.com/afeiship/next-is-phone/blob/master/dist/next-is-phone.min.js
+
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-is-phone
+[download-url]: https://www.npmjs.com/package/@jswork/next-is-phone
