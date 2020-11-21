@@ -3,7 +3,7 @@
  * description: Regexp for is phone.
  * homepage: https://github.com/afeiship/next-is-phone
  * version: 1.0.0
- * date: 2020-11-21 09:08:19
+ * date: 2020-11-21 09:09:36
  * license: MIT
  */
 
